@@ -42,7 +42,7 @@ public class ControlarInteraccion : MonoBehaviour
 
         desactivartodo(); 
         
-        if (ingresoTexto.text == "")
+         if (ingresoTexto.text == "")
         {
             PanelAdvertencia.SetActive(true);
 
