@@ -1687,6 +1687,8 @@ MonoBehaviour:
   - {fileID: 768728504}
   - {fileID: 38779554}
   ingresoTexto: {fileID: 809117609}
+  Index: -1
+  objetoElegido: 0
 --- !u!4 &1943758944
 Transform:
   m_ObjectHideFlags: 0
